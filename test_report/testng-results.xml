@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-25T16:36:20 EDT" name="Default suite" finished-at="2024-03-25T16:41:17 EDT" duration-ms="296807">
+    <groups>
+    </groups>
+    <test started-at="2024-03-25T16:36:20 EDT" name="Default test" finished-at="2024-03-25T16:41:17 EDT" duration-ms="296807">
+      <class name="selenium_automation.TestScenarios">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:36:18 EDT" name="beforeSuite" finished-at="2024-03-25T16:36:20 EDT" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:36:20 EDT" name="beforeTest" finished-at="2024-03-25T16:36:20 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Scenario1Test()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:36:20 EDT" name="Scenario1Test" finished-at="2024-03-25T16:38:15 EDT" duration-ms="114952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1Test -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:36:20 EDT" name="beforeTest" finished-at="2024-03-25T16:36:20 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:38:15 EDT" name="beforeTest" finished-at="2024-03-25T16:38:15 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Scenario2Test()[pri:1, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:38:15 EDT" name="Scenario2Test" finished-at="2024-03-25T16:39:22 EDT" duration-ms="66802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2Test -->
+        <test-method signature="Scenario3Test()[pri:2, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:39:22 EDT" name="Scenario3Test" finished-at="2024-03-25T16:39:55 EDT" duration-ms="33152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario3Test -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:39:22 EDT" name="beforeTest" finished-at="2024-03-25T16:39:22 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:39:55 EDT" name="beforeTest" finished-at="2024-03-25T16:39:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Scenario4Test()[pri:3, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:39:55 EDT" name="Scenario4Test" finished-at="2024-03-25T16:40:42 EDT" duration-ms="47562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario4Test -->
+        <test-method signature="Scenario5Test()[pri:4, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:40:42 EDT" name="Scenario5Test" finished-at="2024-03-25T16:41:17 EDT" duration-ms="34287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario5Test -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:40:42 EDT" name="beforeTest" finished-at="2024-03-25T16:40:42 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:selenium_automation.TestScenarios@49d3c823]" started-at="2024-03-25T16:41:17 EDT" name="afterSuite" finished-at="2024-03-25T16:41:18 EDT" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- selenium_automation.TestScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
